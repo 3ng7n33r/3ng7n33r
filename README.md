@@ -1,7 +1,7 @@
 ### Hi there! I'm Max 👋
 
-- 🔭 I’m currently working on becoming a professional full time programmer
-- 🌱 I’m currently learning Javascript, Vue, Nuxt and Python
+- 🔭 I’m a full stack programmer
+- 🌱 I’m currently learning Django, Javascript, Vue, Nuxt and Python
 - 👯 I’m looking to collaborate on pretty much anything
 - 💬 Ask me about turbochargers :D 
 
