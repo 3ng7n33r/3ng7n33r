@@ -1,9 +1,8 @@
 ### Hi there! I'm Max 👋
 
-- 🔭 I’m a full stack programmer
-- 🌱 I’m currently learning Django, Javascript, Vue, Nuxt and Python
-- 👯 I’m looking to collaborate on pretty much anything
-- 💬 Ask me about turbochargers :D 
+- 🔭 I’m a backend developer
+- 🌱 I’m working mostly with Django
+- 👯 I’m currently working on a platform for genetic analysis called (DIAGHO)[https://diagho.com/]
 
 <a href="https://github.com/3ng7n33r/3ng7n33r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ng7n33r&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
